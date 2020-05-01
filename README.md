@@ -17,11 +17,11 @@
  ## Comment je mets ça sur l'ordinateur ?
  *C'est facile !*
  
- 1. cliquez sur le bouton vert **clone or download** puis sur **download zip** et attendez quelques secondes que ça télécharge (ça ne devrait pas être très long)
- 2. Vous avez téléchargé un zip, alors faut le dezipper :
+1. cliquez sur le bouton vert **clone or download** puis sur **download zip** et attendez quelques secondes que ça télécharge (ça ne devrait pas être très long)
+2. Vous avez téléchargé un zip, alors faut le dezipper :
    - allez chercher le fichier téléchargé dans votre ordinateur
    - faites clique-droit dessus, puis extraire, ou bien winrar -> extraire ou bien 7zip -> extraire
- 3. Ouvez votre navigateur et allez sur l'écran des [extensions](chrome://extensions)
+3. Ouvez votre navigateur et allez sur l'écran des [extensions](chrome://extensions)
    - Cela se trouve généralement dans le menu aux 3 barres / 3 points en haut à droite de la fenêtre (puis dans plus d'outils si vous ne le voyez pas).
    - Si vous ne trouvez vraiment pas le menu, cliquez simultanément sur Ctrl + maj + E , avec un peu de chance ça fonctionnera
    - (note : si vous êtes sur le nouveau navigateur edge, après avoir trouvé le menu faut autoriser les extensions depuis des boutiques externes ou des sources inconnues)
@@ -40,5 +40,5 @@
  Les autres personnes verront le drapeau breton dans vos message **seulement s'ils ont l'extension sur le site web sur l'ordinateur**.
  Sinon ils verront que ce drapeau de course 🏁
  
- ##Je n'arrive pas, j'ai trouvé un bug, je pense pouvoir modifier quelque chose, ou bien je veux te donner tout mon argent pour cette superbe extension qui a changé ma vie
+ ## Je n'arrive pas, j'ai trouvé un bug, je pense pouvoir modifier quelque chose, ou bien je veux te donner tout mon argent pour cette superbe extension qui a changé ma vie
  Contactez moi ;)
