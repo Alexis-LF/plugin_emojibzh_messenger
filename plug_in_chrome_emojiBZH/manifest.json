@@ -1,0 +1,24 @@
+{
+  "name": "emojiBZH",
+  "version": "0.1",
+  "manifest_version": 2,
+  "content_scripts": [
+      {
+        "matches":
+        [
+          "http://www.messenger.com/*",
+          "https://www.messenger.com/*"
+        ],
+        "js" : ["content.js"]
+      }
+  ],
+  "browser_action":{
+    "default_popup": "popup.html",
+    "default_title": "emojiBZH"
+  },
+  "icons":{
+    "32": "img/photoEmoji32.png",
+    "128": "img/photoEmoji128.png"
+  },
+  "permissions" : ["tabs"]
+}
