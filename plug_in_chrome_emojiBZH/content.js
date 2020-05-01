@@ -3,8 +3,8 @@ console.log("[emojiBZH] Le plug-in est bien chargé !");
 //******************vars globales******************
   //photos
     let sacrifice ="https://static.xx.fbcdn.net/images/emoji.php/v9/tf3/1/32/1f3c1.png"; //32px
-    let photoEmoji="https://raw.githubusercontent.com/Alexis-LF/plugin_emojibzh_messenger/master/img/photoEmoji32.png";
-    let photoEmoji128 = "https://raw.githubusercontent.com/Alexis-LF/plugin_emojibzh_messenger/master/img/photoEmoji128.png";
+    let photoEmoji="https://raw.githubusercontent.com/Alexis-LF/plugin_emojibzh_messenger/master/plug_in_chrome_emojiBZH/img/photoEmoji32.png";
+    let photoEmoji128 = "https://raw.githubusercontent.com/Alexis-LF/plugin_emojibzh_messenger/master/plug_in_chrome_emojiBZH/img/photoEmoji128.png";
   //déclaration balises du DOM
     const barreDuBas = document.getElementsByClassName("_5irm _7mkm")[0];
     const barreEcriture = document.getElementsByClassName("_1mf _1mj")[0];
