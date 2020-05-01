@@ -14,4 +14,6 @@
 
  ## Comment je mets ça sur l'ordinateur ?
  *C'est facile !*
- 1. 
+ 
+ 1. cliquez sur le bouton vert **clone or download** puis sur **download zip** et attendez quelques secondes que ça télécharge (ça ne devrait pas être très long)
+ 2. Vous avez téléchargé un zip, alors faut le dezipper : clic-droit sur le fichier 
