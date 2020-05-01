@@ -1,7 +1,7 @@
-# plug in emojiBZH ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+# plug in emojiBZH ![ ](https://raw.githubusercontent.com/Alexis-LF/plugin_emojibzh_messenger/master/plug_in_chrome_emojiBZH/img/photoEmoji32.png"en attendant qu'il soit réellement ajouté")
 
 
-*plug-in qui Sert à remplacer l'émoji drapeau de course 🏁 par l'émoji drapeau breton sur __messenger__*
+*plug-in qui sert à remplacer l'émoji drapeau de course 🏁 par l'émoji drapeau breton sur __messenger__*
 
 
 
@@ -37,5 +37,8 @@
  Toutes les modifications sont faites sur votre ordinateur seulement en local, et pas en ligne sur les serveurs
  
  ## Est-ce que les autres vont voir le drapeau breton ?
- Les autres personnes verront le drapeau breton dans vos message seulement s'ils ont l'extension sur le site web sur l'ordinateur.
+ Les autres personnes verront le drapeau breton dans vos message **seulement s'ils ont l'extension sur le site web sur l'ordinateur**.
  Sinon ils verront que ce drapeau de course 🏁
+ 
+ ##Je n'arrive pas, j'ai trouvé un bug, je pense pouvoir modifier quelque chose, ou bien je veux te donner tout mon argent pour cette superbe extension qui a changé ma vie
+ Contactez moi ;)
